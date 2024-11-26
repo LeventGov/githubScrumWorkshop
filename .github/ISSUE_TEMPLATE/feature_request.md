@@ -1,20 +1,24 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: "[Feature Name]"
+labels: pending issue
+assignees: Noahhaon05-H
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Description
+A clear and concise description of the feature you want to add. Explain the problem it solves or the value it adds.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Acceptance Criteria
+The feature is considered complete when the following criteria are met:
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Proposed Solution
+Describe your proposed solution, including technical details or design concepts, if applicable.
+
+## Additional Context
+Add any other relevant information, screenshots, or links to documentation that might help.
