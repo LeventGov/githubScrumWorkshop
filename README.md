@@ -9,6 +9,7 @@ Welcome to the **Scrum Learning and Testing** repository! This project is design
 This repository serves as a sandbox for practicing Scrum methodology. It provides resources, templates, and example workflows to help individuals and teams:
 
 - Learn the basics of Scrum.
+- Test
 - Simulate Scrum ceremonies such as Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives.
 - Experiment with creating and managing Product Backlogs, Sprint Backlogs, and Increment delivery.
 - Use tools to visualize progress and improve collaboration.
